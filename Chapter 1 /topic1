@@ -10,3 +10,12 @@ Command Line interface and graphical user interface
 
 Let suppose we have a python programm and we need to run it if we are running it through the terminal this is cli and if we press the run 
 button that is use of gui
+
+
+now how to insall wsl on pc run the following command wsl --install
+
+how to print hello world on linux
+
+echo hello world OR echo "hello world"
+
+
