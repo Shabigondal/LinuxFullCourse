@@ -1,1 +1,22 @@
+Three Major Linux Distribution Families
+1) Red Hat Family Systems
+2) SUSE Family Systems
+3) Debian Family Systems
 
+Red Hat Enterprise Linux (RHEL):-
+It is used by enterprise level businesses such as banks and big organization by using secure and paid servers. It is considererd the most secure and professional
+Distros:-
+Rocky Linux , Fedora 
+To install sfotwares we need the commands of yum and dnf 
+
+Debian Family Systems:-
+This is the most world-widely used especially for beginners and web servers, it is very stable and installing new softwares are too much easy to do 
+Distors:-
+Linux Mint
+To install software we need commands of apt and apt-get
+
+SUSE Family System:-
+It is mostly used in european markets and big data servers such as SAP It has a powerful control panel known as YAST from where whole server is managed
+Distors:-
+openSuse , Suse linux enterprise servers 
+To install packages or softwares we need the commands of zypper 
