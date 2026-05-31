@@ -1,1 +1,23 @@
+Define Common Linux Terms
+Discuss components of linux distro
 
+Linux Terminology and Examples
+
+1)Kernel:-
+Glue between hardware and applications Example (Linux Kernel)
+2)Distributions:-
+Collection of a software making up a linux-based OS Example RHLE ubuntu fedora
+3)Boot Loader:-
+Programm that boots the operating system Example Grub and ISoLinux
+4)Service:-
+Programm that runs as a background process Example httpd nfsd ntpd
+5)Filesystem:
+Method for storing and organzing file Example ext3 ext4 FAT NTFS
+6)XWindowSystem:
+Graphical subsytems on nearly all Linux systems
+7)Desktop Environment:-
+Graphical User Interface on top of the operating system Example GNOME KDE
+8)Command Line Interface:-
+Interface for typing commands on top of the operating system
+9)Shell:-
+takes the commands from cli and instrucuts the operating system Example Bash tcsh zsh
