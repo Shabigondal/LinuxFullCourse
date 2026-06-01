@@ -2,3 +2,9 @@ Chapter 2 Filesystems
 
 To check in which directory you are currently in use this command
 pwd(print working directory)
+
+To list all the sub-directories or files in the main directory use this command
+ls(List)
+
+To switch between the directories use the command
+cd to move to another directory use cd directoryname if want to comeback use cd ..
