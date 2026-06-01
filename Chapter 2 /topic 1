@@ -8,3 +8,5 @@ ls(List)
 
 To switch between the directories use the command
 cd to move to another directory use cd directoryname if want to comeback use cd ..
+
+An absolute file path will always start with a slash / and the relative path will not start with slash
