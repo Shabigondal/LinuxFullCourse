@@ -16,3 +16,15 @@ The cat command is used to view the contents of a file. It's short for "concaten
 to view multiple files at once.
 
 Start from 33:11 tomorrow
+
+Head and Tail commands
+
+The head command prints the first n lines of a file. The -n flag specifies n as shown:
+head -n 10 file1.txt
+If you don't specify a number using the -n flag, it will default to 10.
+
+The tail command prints the last n lines of a file. The -n flag specifies n as shown:
+tail -n 10 file1.txt
+
+
+By pressing Q in a running programm the programm is quit
