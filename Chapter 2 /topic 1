@@ -51,3 +51,12 @@ mv origfile.txt ../foldername/
 if you want to change the file name while moving use this
 
 mv origfile.txt ../foldername/renamefile.txt
+
+
+to remove a file use this command
+
+rm filename
+
+to remove a whole folder and directory use this command
+
+rm -r folder
