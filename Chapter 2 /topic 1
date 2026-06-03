@@ -26,5 +26,14 @@ If you don't specify a number using the -n flag, it will default to 10.
 The tail command prints the last n lines of a file. The -n flag specifies n as shown:
 tail -n 10 file1.txt
 
+More and less commands are used to see the contetn from where you desire and the less command is actually more because it gives you 
+feature of moving up and down so the less command is more used this is how to use the command
+
+less file name
+to see number of lines
+less -N file name
+
+to create a new empty file we use the command touch
+touch newfile.txt
 
 By pressing Q in a running programm the programm is quit
