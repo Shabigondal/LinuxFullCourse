@@ -36,4 +36,18 @@ less -N file name
 to create a new empty file we use the command touch
 touch newfile.txt
 
-By pressing Q in a running programm the programm is quit
+Move
+The move command moves a file or directory from one location to another. You can use it to rename a file or to move it to a 
+different directory altogether. Your working directory can't be the directory you're moving.
+
+to rename a file use this 
+
+mv originalfilename.txt renamefile.txt
+
+to change the directory of the file use this 
+
+mv origfile.txt ../foldername/
+
+if you want to change the file name while moving use this
+
+mv origfile.txt ../foldername/renamefile.txt
