@@ -60,3 +60,32 @@ rm filename
 to remove a whole folder and directory use this command
 
 rm -r folder
+
+to link a file to a different location go to the folder where you want to link the file understand the below example
+
+Folder 1 -> Where you want to link the file 
+Folder 2 -> Where the file is actually present e.g name.txt
+
+Cd Folder 1 
+
+ln -s ../Folder2/name.txt
+
+The file will be linked simply
+
+
+To find something in a file here are the steps to do so 
+
+grep "the thing you want to find" filename.txt
+
+the required search will be visible
+
+
+if you want to search in multiple directories
+
+grep -r "keyword" .
+
+the . is all the game
+
+It helps you find in all the directories
+
+
