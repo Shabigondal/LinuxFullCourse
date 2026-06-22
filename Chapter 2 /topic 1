@@ -88,4 +88,22 @@ the . is all the game
 
 It helps you find in all the directories
 
+To find a file in a directory here are the steps to follow
+
+find -name filename.txt
+
+if you know the relevent directory 
+find releventdirectory -name filenmae.txt
+
+if you want to search the file by pattern like the file of the same extnesion like .txt
+
+find relevant directory -name "*.txt*"
+
+if you want to find the files that contain the word you know 
+
+find -name "*thewordyouwanttosearch"
+
+
+
+
 
