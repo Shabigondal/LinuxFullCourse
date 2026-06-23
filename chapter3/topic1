@@ -7,3 +7,12 @@ The most powerful and used commands in linux
 go to ubuntu type whoami
 
 then go and type sudo whoami
+
+In linux macos and unix like system directories are built in such a way that divided into 3 groups like One is owner rest of the two are other groups
+
+-rwxr-xr--
+drwxr-xr--
+
+
+D means the directory r means read w means write x means execute so these are the three group and there permsissions accordingly like owner can read write and executre whereas
+the second group can only read and execute similary 3rd group can only read 
