@@ -1,0 +1,5 @@
+to see hidden file use ls -a ~
+
+to edit a file use nano editfile.txt
+
+to save the edit press ctrl + o then enter and then ctrl + x to exit 
